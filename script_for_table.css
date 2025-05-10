@@ -1,0 +1,20 @@
+   th,
+   tr,
+   td,
+   p {
+      color: #ffffff;
+   }
+
+   table {
+      border-collapse: collapse;
+      width: 90%;
+    }
+    th, td {
+      border: 1px solid #ffffff;
+      padding: 8px;
+      text-align: left;
+    }
+    body {
+      background-color: #251e1e;
+    }
+ 
