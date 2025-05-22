@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    }
+table{
+    width: 90%;
+    }
+td{
+    font-size: large;
+    text-align: center;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: beige;
+    
+}
